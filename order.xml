@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<order>
+	<status>
+		<status>
+			<!--Статус-->Готов к выдаче</status>
+	</status>
+	<properties>
+		<number>
+			<!--номер заказа-->i41855</number>
+		<date>
+			<!--дата заказа-->07.11.2019 19:49:02</date>
+		<department>
+			<!--подразделение-->Полиграфический отдел (Академическая)</department>
+		<department_phone>
+			<!--телефон подразделения-->+7 (812) 679-16-91</department_phone>
+		<department_mail>
+			<!--почта подразделения-->n19@printsburg.ru</department_mail>
+		<production_time>
+			<!--время готовности-->07.11.2019 19:49:01</production_time>
+		<manager>
+			<!--менеджер-->Ирина Бадей</manager>
+		<order_code>
+			<!--код заказа-->9cry16</order_code>
+		<storage_code>
+			<!--код места хранения-->
+		</storage_code>
+		<storage_name>
+			<!--название места хранения-->
+		</storage_name>
+		<paymentlink>
+			<!--ссылка на оплату-->https://pay.printsburg.ru/?order=5dc44b47afdcf7.46254349</paymentlink>
+	</properties>
+	<partner>
+		<phone>
+			<!--телефон клиента-->79110849035</phone>
+		<mail>
+			<!--почта клиента-->dimamaza@yandex.ru</mail>
+	</partner>
+	<bonus>
+		<number>
+			<!--бонусная карта клиента-->0253981</number>
+		<status>
+			<!--уровень партнера-->Bonus</status>
+		<balance>
+			<!--остаток бонусов на карте-->373.23</balance>
+		<bonus_payd>
+			<!--количество бонусов, примененных в заказе-->
+		</bonus_payd>
+		<bonus_limit>
+			<!--разрешенный лимит оплаты бонусами-->50.00</bonus_limit>
+	</bonus>
+	<cost>
+		<full>
+			<!--полная стоимость заказа без учета скидок-->282.00</full>
+		<with_discount>
+			<!--стоимость заказа с учетом скидки-->258.00</with_discount>
+		<discount>
+			<!--скидка-->24.00</discount>
+		<payd>
+			<!--сумма оплаты-->258.00</payd>
+	</cost>
+	<products>
+		<product1>
+			<name>
+				<!--наименование для печати и наименование характеристики-->Цветная печать А3 (от 2 до 4 листов)</name>
+			<price>
+				<!--цена-->80.00</price>
+			<quantity>
+				<!--количество-->3.00</quantity>
+			<discount>
+				<!--скидка-->18.00</discount>
+			<with_discount>
+				<!--стоимость с учетом скидки-->222.00</with_discount>
+		</product1>
+		<product2>
+			<name>
+				<!--наименование для печати и наименование характеристики-->Доплата за плотную бумагу А3 115-120 гр/м</name>
+			<price>
+				<!--цена-->14.00</price>
+			<quantity>
+				<!--количество-->3.00</quantity>
+			<discount>
+				<!--скидка-->6.00</discount>
+			<with_discount>
+				<!--стоимость с учетом скидки-->36.00</with_discount>
+		</product2>
+	</products>
+	<history/>
+</order>

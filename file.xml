@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<order>
+	<status>
+		<status>
+			<!--Статус-->Новый</status>
+	</status>
+	<properties>
+		<number>
+			<!--номер заказа-->221889</number>
+		<date>
+			<!--дата заказа-->14.12.2019 14:58:05</date>
+		<department>
+			<!--подразделение-->Фото отдел (Академическая)</department>
+		<department_phone>
+			<!--телефон подразделения-->+7 (812) 679-16-91</department_phone>
+		<department_mail>
+			<!--почта подразделения-->n19@printsburg.ru</department_mail>
+		<production_time>
+			<!--время готовности-->14.12.2019 14:58:04</production_time>
+		<manager>
+			<!--менеджер-->Илья Зиновьев</manager>
+		<order_code>
+			<!--код заказа-->91s6s8</order_code>
+		<storage_code>
+			<!--код места хранения-->
+		</storage_code>
+		<storage_name>
+			<!--название места хранения-->
+		</storage_name>
+		<paymentlink>
+			<!--ссылка на оплату-->
+		</paymentlink>
+	</properties>
+	<partner>
+		<phone>
+			<!--телефон клиента-->79062289489</phone>
+		<mail>
+			<!--почта клиента-->
+		</mail>
+	</partner>
+	<bonus>
+		<number>
+			<!--бонусная карта клиента-->0237815</number>
+		<status>
+			<!--уровень партнера-->Bonus</status>
+		<balance>
+			<!--остаток бонусов на карте-->29.84</balance>
+		<bonus_payd>
+			<!--количество бонусов, примененных в заказе-->
+		</bonus_payd>
+		<bonus_limit>
+			<!--разрешенный лимит оплаты бонусами-->50.00</bonus_limit>
+	</bonus>
+	<cost>
+		<full>
+			<!--полная стоимость заказа без учета скидок-->396.00</full>
+		<with_discount>
+			<!--стоимость заказа с учетом скидки-->330.00</with_discount>
+		<discount>
+			<!--скидка-->66.00</discount>
+		<payd>
+			<!--сумма оплаты-->330.00</payd>
+	</cost>
+	<products>
+		<product1>
+			<name>
+				<!--наименование для печати и наименование характеристики-->Печать фотографий 10x15 за 24 часа (от 1 до 49 шт.)</name>
+			<price>
+				<!--цена-->18.00</price>
+			<quantity>
+				<!--количество-->22.00</quantity>
+			<discount>
+				<!--скидка-->66.00</discount>
+			<with_discount>
+				<!--стоимость с учетом скидки-->330.00</with_discount>
+		</product1>
+	</products>
+	<history/>
+</order>
